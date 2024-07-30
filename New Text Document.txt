@@ -1,0 +1,19 @@
+1.How many people are in each job?
+
+2.Age bspread of the staff?
+
+3.Gender breakdown of the staff?
+
+4.Which job pays more?
+
+5.Top earners in each job?
+
+6.Qualification vs Salary?
+
+7.Staff growth trend over the time?
+
+8.employee filter by starting letter?
+
+9.Leave balance analysis.
+
+10.Quick HR dashboard.
